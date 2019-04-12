@@ -1,0 +1,15 @@
+{
+  "name": "Ding_Timingtask",
+  "version": "1.0.0",
+  "description": "this is Ding_Timingtask Robot",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shunfeng.zhou",
+  "license": "ISC"
+}
