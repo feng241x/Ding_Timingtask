@@ -4,8 +4,8 @@ const TASK_CONF = {
     executionTime: '9:30',
     // 间隔执行时间
     TimeInterval: '5000',
-    // 机器人token
-    token: "541f506d458230ce097f0f0750c5dc4f7f0297242f22e52620e5cbd8c0891141"
+    // 机器人token 填上您的机器人token
+    token: "XXXXXXX"
 }
 
 // 自定义机器人配置
